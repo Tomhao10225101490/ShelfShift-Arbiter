@@ -4,6 +4,10 @@
 
 ## Try it
 
+Public demo: https://tomhao10225101490.github.io/ShelfShift-Arbiter/
+
+Video: https://youtu.be/025cFlQ3qOg
+
 No account, API key, backend, or build step. Run `npm run dev` and open http://localhost:8766. Node 20+ is needed only for `npm test`; the app runs as static browser files. All pantry records stay in browser localStorage. Export a JSON backup before changing devices or clearing site data. Google Fonts is optional; system fonts work offline.
 
 1. Load the sample pantry (clearly labeled example inventory with dates relative to today).
